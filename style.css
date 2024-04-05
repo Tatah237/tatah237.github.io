@@ -1,0 +1,135 @@
+.head{
+    height:500px;
+    /* background-color: rgb(109, 107, 107); */
+    background-image: url('bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.head2{
+    height:500px;
+    padding-top: 5%;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.7;
+}
+body{
+    color: white;
+}
+.herobtn{
+    border-radius: 25px;
+    background: rgb(81, 0, 128);
+    color: white;
+}
+.content{
+    background-color: rgb(8, 8, 8);
+}
+.section1{
+    background-color: #fff;
+    color:rgb(8, 8, 8) ;
+    height: 620px;
+}
+a{
+    text-decoration: none;
+    
+}
+.image{
+    height: 200px;
+    max-height: 250px;
+    border-radius: 10px;
+    position: relative;
+    border-image: 20px;
+}
+.content1{
+    padding-top: 50px;
+}
+.ss{
+    height: 1000px;
+    background-image: url('aboutme\ image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pt-6{
+    text-align: center;
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    padding-bottom: 50px;
+}
+.pt-10{
+    text-align: left;
+    color: black;
+    font-weight: 1000px;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    opacity: +70;
+    
+}
+.dd{
+    margin-bottom: 20px;
+}
+.ee{
+    padding-top: 25px;
+    color: blue;
+}
+.ff{
+    border-radius: 30px;
+}
+.one{
+    width: 100px;
+    height: 100px;
+    align-content: center;
+
+    
+}
+.row{
+    padding-top: 50px;
+    border-radius: 30px;
+    box-shadow: 30px;
+    align-items: center;
+    margin-left: 600px;
+}
+.top{
+    color: black;
+    margin-left: 400px;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    
+}
+.stv{
+    background-image: url(contacts.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+.card-image{
+    margin: 20px;
+}
+.sy{
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+.st{
+        border-radius: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color:whitesmoke;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+.footer-item {
+    display: inline-block;
+    margin-right: 10px;
+}
